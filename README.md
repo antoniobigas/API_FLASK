@@ -29,6 +29,17 @@ Utilização do JSONIFY
 import json
 import requests
 
+Teste usado no postman no segundo app
+{
+    "nome": "Neto",
+    "habilidades": [
+        "Java",
+        "PHP",
+        "ruby"
+    ]
+ 
+}
+
 
 #    Desenvolvimento de uma REST API completa
 
