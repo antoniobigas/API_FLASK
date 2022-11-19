@@ -23,6 +23,13 @@ documentação do flask: https://flask.palletsprojects.com/en/2.2.x/quickstart/
 #    Utilização dos metodos, biblioteca Request e JSON
 
 
+Teste utilizado no POSTMAN  {"valores":[10,10,10]}
+
+Utilização do JSONIFY 
+import json
+import requests
+
+
 #    Desenvolvimento de uma REST API completa
 
 
