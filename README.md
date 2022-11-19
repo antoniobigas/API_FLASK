@@ -47,6 +47,9 @@ Teste usado no postman no segundo app
 
 #    Desenvolvimento de uma rest api com Flask-RESTful
 
+Instalação
+pip install flask-restful
+
 Documentação referente a flask RESTFul-API.
 
 https://flask-restful.readthedocs.io/en/latest/quickstart.html#a-minimal-api
