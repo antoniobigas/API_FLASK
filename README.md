@@ -78,9 +78,6 @@ https://flask-restful.readthedocs.io/en/latest/quickstart.html#a-minimal-api
 
 
 
-Observe o seguinte trecho de código:
-return USUARIO.get(login) == senha
 
-O que esse trecho de código está fazendo?
 
-![image](https://user-images.githubusercontent.com/100382731/202871347-b9e0af76-1733-454f-99a1-5df62f8d1e70.png)
+
